@@ -165,19 +165,16 @@ D:\backup7z\cmd\backup7z.cmd D:\backup7z\cmd\usb.ini
 
 <br/>
 
-![img001](doc/img001.png)
+![img001](../doc/img001.png)
 
 <p>Gegebenfalls werden aufgrund fehlender Zugriffsrechte nur der eigene Teil des C:\Users Verzeichnisses gesichert. Was aus Datenschutzgründen durchaus Sinn macht. Einträge im Ereignisprotokoll sowie der Dateien im /log Verzeichnis helfen bei der Fehlersuche.</p>
 
-
-
-
-## Requirements
+## Vorausetzungen
 * [7-Zip](https://www.7-zip.org/download.html)
 * Microsoft Windows PowerShell
 <hr/>
 
-## License
+## Lizenz
 MIT License
 
 Copyright (c) 2022 H. Scheller
